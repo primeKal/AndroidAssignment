@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">REC</string>
+    <string name="a_list_of_acconts">A list of Acconts</string>
+    <string name="here_we_are">Here we are</string>
+    <string name="title">Title</string>
+    <string name="here_are_the_details">here are the details</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">Login</string>
+    <string name="ur_password_here">ur password here</string>
+    <string name="login_register">Login/Register</string>
+    <string name="dont_have_create">Dont have?Create?</string>
+    <string name="enter_email_here">enter Email here</string>
+    <string name="register">Register</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="eg_251">eg+251######</string>
+    <string name="passcode_use_ur_gmail_pw_to">passcode/use ur gmail pw to</string>
+    <string name="example_mobile_com">example@mobile.com</string>
+    <string name="enter_name">enter name</string>
+    <string name="choose_ur_username">choose ur username</string>
+    <string name="detailed_account_info">Detailed Account Info</string>
+    <string name="textView2fullname">TextView</string>
+    <string name="textview56">TextView</string>
+    <string name="textview34">TextView</string>
+    <string name="textview23">TextView</string>
+    <string name="textview12">TextView</string>
+    <string name="phone_0925499376">phone=0925499376</string>
+    <string name="email_kalebteshale72_gmail_com">Email-kalebteshale72@gmail.com</string>
+    <string name="developer_kaleb_teshale">Developer-KALEB TESHALE</string>
+</resources>
